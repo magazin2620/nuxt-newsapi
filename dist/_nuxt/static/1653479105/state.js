@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1653479105",layout:"default",error:a,state:{apiUrl:"",apiKey:"7d24edd2d4064ad1be59bfd3aba4a32b",searchWord:"Web 3.0",currentPage:1,totalResults:0,maxPerPage:20,articles:[]},serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"\u002F"));
